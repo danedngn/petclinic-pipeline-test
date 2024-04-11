@@ -21,7 +21,7 @@ java {
 }
 
 repositories {
-  mavenCentral()
+  jcenter()
 }
 
 ext.webjarsFontawesomeVersion = "4.7.0"
