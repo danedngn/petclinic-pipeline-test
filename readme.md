@@ -6,6 +6,7 @@
 ![Alt text](./readmeimg/pipelinejob.png "Pipeline Job")
 
 - Go down to Pipeline settings, choose "Pipeline script from SCM," and fill in appropriate settings for repository
+- Also change branch from "master" to "main"
 
 ![Alt text](./readmeimg/pipelineconfig.png "Pipeline Config")
 
