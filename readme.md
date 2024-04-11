@@ -18,4 +18,4 @@
 
 - Jenkins will build the jar, run tests, and build a docker image on its local machine
 - Also within the pipeline but commented out is one means of pushing the image to a remote repository (requires credentials)
-- Run the docker image with "docker run -p 8080:8080 petclinic:buildNumber" where "buildNumber" is the number associated with the desired build in Jenkins
+- Run the docker image with "docker run -p 8080:8080 petclinic:buildNumber" where "buildNumber" is the number associated with the desired build in Jenkins found on the job page
